@@ -9,3 +9,5 @@ Structure:
 - Figures: Code for reproduce the figures from the paper
 
 Intermediate results can also be found in Figshare in the following URLs:
+- Clinical metacohort anthra vs non anthra https://figshare.com/s/b6312bcd5bcbfecebf07 (temporal URL)
+- more to add...
