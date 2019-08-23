@@ -1,0 +1,117 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+4714	H1F0	H1 histone family member 0	Approved	H1FV	H10	22q13.1	X03473	NM_005318		Histones	864
+24893	H1FNT	H1 histone family member N, testis specific	Approved		HANP1, H1T2	12q13.11	AY302593	NM_181788		Histones	864
+18463	H1FOO	H1 histone family member O oocyte specific	Approved			3q22.1	AY158091	NM_153833		Histones	864
+4722	H1FX	H1 histone family member X	Approved		MGC15959, MGC8350, H1X	3q21.3	D64142	NM_006026		Histones	864
+22516	H2AFB1	H2A histone family member B1	Approved			Xq28		NM_001017990		Histones	864
+18298	H2AFB2	H2A histone family member B2	Approved			Xq28		NM_001017991		Histones	864
+14455	H2AFB3	H2A histone family member B3	Approved	H2AFB		Xq28	AF254576	NM_080720		Histones	864
+14456	H2AFJ	H2A histone family member J	Approved		FLJ10903, MGC921	12p12.3	AK001765	NM_177925		Histones	864
+20664	H2AFV	H2A histone family member V	Approved	H2AV	MGC10170, MGC10831, MGC1947	7p13	AF081192	NM_012412		Histones	864
+31026	H2AFVP1	H2A histone family member V pseudogene 1	Approved	H2AFVP	HsT19970	15q26.1	AC091544	NG_009543		Histones	864
+4739	H2AFX	H2A histone family member X	Approved	H2AX		11q23.3	X14850	NM_002105		Histones	864
+4740	H2AFY	H2A histone family member Y	Approved		macroH2A1.2	5q31.1	AF054174	NM_004893		Histones	864
+14453	H2AFY2	H2A histone family member Y2	Approved		macroH2A2	10q22.1	AF336304	NM_018649		Histones	864
+4741	H2AFZ	H2A histone family member Z	Approved	H2AZ	H2A.Z	4q23	X52317	NM_002106		Histones	864
+4742	H2AFZP1	H2A histone family member Z pseudogene 1	Approved	H2AFZP		21q22.3	U61521	NG_000922		Histones	864
+32279	H2AFZP2	H2A histone family member Z pseudogene 2	Approved			8q13.3		NG_005179		Histones	864
+38013	H2AFZP3	H2A histone family member Z pseudogene 3	Approved			13q32.3		NG_011430		Histones	864
+38015	H2AFZP4	H2A histone family member Z pseudogene 4	Approved			11q13.3				Histones	864
+38018	H2AFZP5	H2A histone family member Z pseudogene 5	Approved			10q22.3				Histones	864
+38019	H2AFZP6	H2A histone family member Z pseudogene 6	Approved			22q12.2				Histones	864
+27867	H2BFM	H2B histone family member M	Approved			Xq22.2	AK093522	XM_210048		Histones	864
+4762	H2BFS	H2B histone family member S	Approved			21q22.3		NG_006504		Histones	864
+27252	H2BFWT	H2B histone family member W, testis specific	Approved			Xq22.2	BC038109	NM_001002916		Histones	864
+25757	H2BFXP	H2B histone family member X, pseudogene	Approved			Xq22.2	AY730279	NR_003238		Histones	864
+4764	H3F3A	H3 histone family member 3A	Approved	H3F3	H3.3A	1q42.12	BC029405	NM_002107		Histones	864
+31028	H3F3AP1	H3 histone family member 3A pseudogene 1	Approved		HsT18159, p48	15q15.1	AC025168	NG_006444		Histones	864
+19823	H3F3AP2	H3 histone family member 3A pseudogene 2	Approved		H3F3CP	14q11.2	AL049829			Histones	864
+4765	H3F3B	H3 histone family member 3B	Approved		H3.3B	17q25.1	Z48950	NM_005324		Histones	864
+33164	H3F3C	H3 histone family member 3C	Approved		H3.5	12p11.21	BC066906	NM_001013699		Histones	864
+4715	HIST1H1A	histone cluster 1 H1 family member a	Approved	H1F1	H1.1, H1a	6p22.2	AF531299	NM_005325		Histones	864
+4719	HIST1H1B	histone cluster 1 H1 family member b	Approved	H1F5	H1.5, H1b, H1s-3	6p22.1	AF531304	NM_005322		Histones	864
+4716	HIST1H1C	histone cluster 1 H1 family member c	Approved	H1F2	H1.2, H1s-1, H1c	6p22.2	X57129	NM_005319		Histones	864
+4717	HIST1H1D	histone cluster 1 H1 family member d	Approved	H1F3	H1.3, H1d, H1s-2	6p22.2	M60747	NM_005320		Histones	864
+4718	HIST1H1E	histone cluster 1 H1 family member e	Approved	H1F4	H1.4, H1e, H1s-4	6p22.2	M60748	NM_005321		Histones	864
+19163	HIST1H1PS1	histone cluster 1 H1 pseudogene 1	Approved		dJ34B20.16, FLJ39701, H1F6P	6p22.2		NG_029660		Histones	864
+4770	HIST1H1PS2	histone cluster 1 H1 pseudogene 2	Approved	H3FEP	pH3/e	6p22.2	X67080			Histones	864
+4720	HIST1H1T	histone cluster 1 H1 family member t	Approved	H1FT	H1t	6p22.2	M60094	NM_005323		Histones	864
+18729	HIST1H2AA	histone cluster 1 H2A family member a	Approved		bA317E16.2, H2AFR	6p22.2	AY131982	NM_170745		Histones	864
+4734	HIST1H2AB	histone cluster 1 H2A family member b	Approved	H2AFM	H2A/m	6p22.2	X00089	NM_003513		Histones	864
+4733	HIST1H2AC	histone cluster 1 H2A family member c	Approved	H2AFL		6p22.2	Z80778	NM_003512		Histones	864
+4729	HIST1H2AD	histone cluster 1 H2A family member d	Approved	H2AFG	H2A/g, H2A.3	6p22.2	Z80776	NM_021065		Histones	864
+4724	HIST1H2AE	histone cluster 1 H2A family member e	Approved	H2AFA	H2A/a, H2A.1	6p22.2	M60752	NM_021052		Histones	864
+4737	HIST1H2AG	histone cluster 1 H2A family member g	Approved	H2AFP	pH2A/f, H2A/p, H2A.1b	6p22.1	L19778	NM_021064		Histones	864
+13671	HIST1H2AH	histone cluster 1 H2A family member h	Approved		H2AFALii, dJ86C11.1, H2A/S	6p22.1	AY131988	NM_080596		Histones	864
+4725	HIST1H2AI	histone cluster 1 H2A family member i	Approved	H2AFC	H2A/c	6p22.1	Z83742	NM_003509		Histones	864
+4727	HIST1H2AJ	histone cluster 1 H2A family member j	Approved	H2AFE	H2A/E	6p22.1	Z83736	NM_021066		Histones	864
+4726	HIST1H2AK	histone cluster 1 H2A family member k	Approved	H2AFD	H2A/d	6p22.1	Z83739	NM_003510		Histones	864
+4730	HIST1H2AL	histone cluster 1 H2A family member l	Approved	H2AFI	H2A/i, dJ193B12.9	6p22.1	X83549	NM_003511		Histones	864
+4735	HIST1H2AM	histone cluster 1 H2A family member m	Approved	H2AFN	H2A/n, H2A.1	6p22.1	X57138	NM_003514		Histones	864
+18720	HIST1H2APS1	histone cluster 1 H2A pseudogene 1	Approved		bA317E16.5, H2AFSP	6p22.2				Histones	864
+18804	HIST1H2APS2	histone cluster 1 H2A pseudogene 2	Approved	H2AFTP	dJ139G21.2, H2A/T	6p22.2	AF098457	NG_002685		Histones	864
+18805	HIST1H2APS3	histone cluster 1 H2A pseudogene 3	Approved		dJ34B20.8, H2AFUP	6p22.2				Histones	864
+4732	HIST1H2APS4	histone cluster 1 H2A pseudogene 4	Approved	H2AFK, H2AFKP	pH2A/k, dJ34B20.2	6p22.2	Z80777			Histones	864
+4728	HIST1H2APS5	histone cluster 1 H2A pseudogene 5	Approved	H2AFFP	pH2A/f	6p22.2	X57131			Histones	864
+18730	HIST1H2BA	histone cluster 1 H2B family member a	Approved		bA317E16.3, STBP, TSH2B, H2BFU	6p22.2	AF397301	NM_170610		Histones	864
+4751	HIST1H2BB	histone cluster 1 H2B family member b	Approved	H2BFF	H2B/f	6p22.2	AF531285	NM_021062		Histones	864
+4757	HIST1H2BC	histone cluster 1 H2B family member c	Approved	H2BFL	H2B/l, H2B.1	6p22.2	Z80783	NM_003526		Histones	864
+4747	HIST1H2BD	histone cluster 1 H2B family member d	Approved	H2BFB	H2B/b	6p22.2	M60751	NM_021063		Histones	864
+4753	HIST1H2BE	histone cluster 1 H2B family member e	Approved	H2BFH	H2B/h, H2B.h	6p22.2	Z80780	NM_003523		Histones	864
+4752	HIST1H2BF	histone cluster 1 H2B family member f	Approved	H2BFG	H2B/g	6p22.2	Z80779	NM_003522		Histones	864
+4746	HIST1H2BG	histone cluster 1 H2B family member g	Approved	H2BFA	H2B/a, H2B.1A	6p22.2	M60750	NM_003518		Histones	864
+4755	HIST1H2BH	histone cluster 1 H2B family member h	Approved	H2BFJ	H2B/j	6p22.2	Z80781	NM_003524		Histones	864
+4756	HIST1H2BI	histone cluster 1 H2B family member i	Approved	H2BFK	H2B/k	6p22.2	Z80782	NM_003525		Histones	864
+4761	HIST1H2BJ	histone cluster 1 H2B family member j	Approved	H2BFR	H2B/r	6p22.1	X00088	NM_021058		Histones	864
+13954	HIST1H2BK	histone cluster 1 H2B family member k	Approved	H2BFT	H2BFAiii	6p22.1	AJ223352	NM_080593		Histones	864
+4748	HIST1H2BL	histone cluster 1 H2B family member l	Approved	H2BFC	H2B/c, dJ97D16.4	6p22.1	Z83740	NM_003519		Histones	864
+4750	HIST1H2BM	histone cluster 1 H2B family member m	Approved	H2BFE	H2B/e, dJ160A22.3	6p22.1	Z83738	NM_003521		Histones	864
+4749	HIST1H2BN	histone cluster 1 H2B family member n	Approved	H2BFD	H2B/d	6p22.1	Z83336	NM_003520		Histones	864
+4758	HIST1H2BO	histone cluster 1 H2B family member o	Approved	H2BFN	H2B/n, H2B.2	6p22.1	X57138	NM_003527		Histones	864
+18719	HIST1H2BPS1	histone cluster 1 H2B pseudogene 1	Approved		bA317E16.4, H2BFVP	6p22.2		NG_027974		Histones	864
+4754	HIST1H2BPS2	histone cluster 1 H2B pseudogene 2	Approved	H2BFIP	pH2B/i	6p22.1	X83547			Histones	864
+4766	HIST1H3A	histone cluster 1 H3 family member a	Approved	H3FA	H3/A	6p22.2	Z46261	NM_003529		Histones	864
+4776	HIST1H3B	histone cluster 1 H3 family member b	Approved	H3FL	H3/l	6p22.2	X00090	NM_003537		Histones	864
+4768	HIST1H3C	histone cluster 1 H3 family member c	Approved	H3FC	H3/c, H3.1	6p22.2	X57128	NM_003531		Histones	864
+4767	HIST1H3D	histone cluster 1 H3 family member d	Approved	H3FB	H3/b	6p22.2	Z80784	NM_003530		Histones	864
+4769	HIST1H3E	histone cluster 1 H3 family member e	Approved	H3FD	H3/d, H3.1	6p22.2	M60746	NM_003532		Histones	864
+4773	HIST1H3F	histone cluster 1 H3 family member f	Approved	H3FI	H3/i	6p22.2	Z80786	NM_021018		Histones	864
+4772	HIST1H3G	histone cluster 1 H3 family member g	Approved	H3FH	H3/h	6p22.2	Z80785	NM_003534		Histones	864
+4775	HIST1H3H	histone cluster 1 H3 family member h	Approved	H3FK	H3/k, H3F1K	6p22.1	Z83735	NM_003536		Histones	864
+4771	HIST1H3I	histone cluster 1 H3 family member i	Approved	H3FF	H3/f, H3.f	6p22.1	X83550	NM_003533		Histones	864
+4774	HIST1H3J	histone cluster 1 H3 family member j	Approved	H3FJ	H3/j	6p22.1	Z83737	NM_003535		Histones	864
+18982	HIST1H3PS1	histone cluster 1 H3 pseudogene 1	Approved		dJ45P21.6, H3F3AP1, p36	6p22.2		NG_029540		Histones	864
+4781	HIST1H4A	histone cluster 1 H4 family member a	Approved	H4FA		6p22.2	X60481	NM_003538		Histones	864
+4789	HIST1H4B	histone cluster 1 H4 family member b	Approved	H4FI	H4/I	6p22.2	X67081	NM_003544		Histones	864
+4787	HIST1H4C	histone cluster 1 H4 family member c	Approved	H4FG	H4/g, dJ221C16.1	6p22.2	X60486	NM_003542		Histones	864
+4782	HIST1H4D	histone cluster 1 H4 family member d	Approved	H4FB	H4/b	6p22.2	X60482	NM_003539		Histones	864
+4790	HIST1H4E	histone cluster 1 H4 family member e	Approved	H4FJ	H4/j	6p22.2	Z80787	NM_003545		Histones	864
+4783	HIST1H4F	histone cluster 1 H4 family member f	Approved	H4FC	H4/c, H4	6p22.2	M60749	NM_003540		Histones	864
+4792	HIST1H4G	histone cluster 1 H4 family member g	Approved	H4FL	H4/l	6p22.2	Z80788	NM_003547		Histones	864
+4788	HIST1H4H	histone cluster 1 H4 family member h	Approved	H4FH	H4/h	6p22.2	X60487	NM_003543		Histones	864
+4793	HIST1H4I	histone cluster 1 H4 family member i	Approved	H4FM	H4/m	6p22.1	AB000905	NM_003495		Histones	864
+4785	HIST1H4J	histone cluster 1 H4 family member j	Approved	H4FE	H4/e, H4F2iv	6p22.1	J00188	NM_021968		Histones	864
+4784	HIST1H4K	histone cluster 1 H4 family member k	Approved	H4FD	H4/d, H4F2iii, dJ160A22.1	6p22.1	X60483	NM_003541		Histones	864
+4791	HIST1H4L	histone cluster 1 H4 family member l	Approved	H4FK	H4.k, H4/k	6p22.1	X83548	NM_003546		Histones	864
+4786	HIST1H4PS1	histone cluster 1 H4 pseudogene 1	Approved	H4FFP	pH4/f, dJ97D16.3	6p22.1	X60485			Histones	864
+4736	HIST2H2AA3	histone cluster 2 H2A family member a3	Approved	H2AFO, HIST2H2AA	H2A.2, H2A/q	1q21.2	K01889	NM_003516		Histones	864
+29668	HIST2H2AA4	histone cluster 2 H2A family member a4	Approved		H2A/r	1q21.2	L19779	NM_001040874		Histones	864
+20508	HIST2H2AB	histone cluster 2 H2A family member b	Approved			1q21.2	AY131972	NM_175065		Histones	864
+4738	HIST2H2AC	histone cluster 2 H2A family member c	Approved	H2A, H2AFQ	H2A/q	1q21.2	AY131973	NM_003517		Histones	864
+20560	HIST2H2BA	histone cluster 2 H2B family member a (pseudogene)	Approved			1p11.2	AY131975	NR_027337		Histones	864
+20654	HIST2H2BB	histone cluster 2 H2B family member b (pseudogene)	Approved			1q21.1	AY131976	NG_002652		Histones	864
+20516	HIST2H2BC	histone cluster 2 H2B family member c (pseudogene)	Approved		H2B/t	1q21.2	AY131977			Histones	864
+20517	HIST2H2BD	histone cluster 2 H2B family member d (pseudogene)	Approved	H2BFO	H2B/s, H2B/o	1q21.2	AY131978			Histones	864
+4760	HIST2H2BE	histone cluster 2 H2B family member e	Approved	H2B, H2BFQ	H2B/q, H2B.1	1q21.2	AY131979	NM_003528		Histones	864
+24700	HIST2H2BF	histone cluster 2 H2B family member f	Approved			1q21.2	BC110793	NM_001024599		Histones	864
+20505	HIST2H3A	histone cluster 2 H3 family member a	Approved		H3/n, H3/o	1q21.2	AF531305			Histones	864
+20503	HIST2H3C	histone cluster 2 H3 family member c	Approved	H3F2, H3FM	MGC9629, H3/m, H3, H3.2, H3/M	1q21.2	AF531307	NM_021059		Histones	864
+25311	HIST2H3D	histone cluster 2 H3 family member d	Approved			1q21.2	AL591493	NM_001123375		Histones	864
+32060	HIST2H3PS2	histone cluster 2 H3 pseudogene 2	Approved		p06	1q21.1	AL109948	NG_012783		Histones	864
+4794	HIST2H4A	histone cluster 2 H4 family member a	Approved	H4F2, H4FN, HIST2H4, H4/n		1q21.2	M16707			Histones	864
+29607	HIST2H4B	histone cluster 2 H4 family member b	Approved		H4/o	1q21.2	BC108260	NM_001034077		Histones	864
+20507	HIST3H2A	histone cluster 3 H2A	Approved		MGC3165	1q42.13	AY131974	NM_033445		Histones	864
+20515	HIST3H2BA	histone cluster 3 H2B family member a (pseudogene)	Approved			1q42.13	AY131980	NG_002618		Histones	864
+20514	HIST3H2BB	histone cluster 3 H2B family member b	Approved			1q42.13	AY131981	NM_175055		Histones	864
+4778	HIST3H3	histone cluster 3 H3	Approved	H3FT	H3t, H3/g, H3.4	1q42.13	Z49861	NM_003493		Histones	864
+20510	HIST4H4	histone cluster 4 H4	Approved		MGC24116	12p12.3	AY128653	NM_175054		Histones	864
