@@ -9,5 +9,6 @@ Structure:
 - Figures: Code for reproduce the figures from the paper
 
 Intermediate results can also be found in Figshare in the following URLs:
-- Clinical metacohort anthra vs non anthra https://figshare.com/s/b6312bcd5bcbfecebf07 (temporal URL)
-- more to add...
+- Clinical metacohort anthra vs non anthra https://figshare.com/articles/Clinical_Metacohort_anthra_vs_non_anthra_/9717473
+- Clinical metacohort anthra vs taxane https://figshare.com/articles/Clinical_Metacohort_anthra_vs_taxane_/9956591
+- Clinical cohort anthra vs CMF https://figshare.com/articles/Clinical_Metacohort_anthra_vs_CMF_/9956585
